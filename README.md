@@ -13,11 +13,11 @@ discount, category, region, and order date.
 ## Key Findings
 1. Sales grew from ~$80k to ~$120k monthly peaks (2014–2017), but margin pressure 
    from discounting limits profit growth
-2. Discounts above 30% generate negative average profit — a clear value 
+2. Discounts above 30% generate negative average profit; a clear value 
    destruction threshold
 3. Technology drives profitability ($145k total profit); Furniture contributes 
    only $18k despite 21% of order volume
-4. Strong holiday seasonality (Nov–Dec peaks) with consistent January troughs
+4. Strong holiday seasonality (Nov–Dec peaks) with consistent January depression
 
 ## Stack
 Python · pandas · matplotlib · seaborn · Jupyter
